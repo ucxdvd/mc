@@ -5,15 +5,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2017-06-26 21:57:28 +0200"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2017-06-26 21:57:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2017-06-27 17:23:12 +0200"
     },
     "done": true
   },
@@ -29,9 +47,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "enderman": "2017-06-26 21:59:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
     },
     "done": true
   },
@@ -68,6 +98,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2017-06-26 22:08:42 +0200"
@@ -77,6 +113,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2017-06-26 22:08:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
     },
     "done": true
   },
@@ -94,6 +136,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2017-06-28 00:32:28 +0200",
       "forest_hills": "2017-06-26 21:57:29 +0200",
       "plains": "2017-06-26 22:02:55 +0200"
     },
@@ -102,6 +145,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-06-26 22:13:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
     },
     "done": true
   },
@@ -129,15 +178,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2017-06-26 23:19:52 +0200"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2017-06-26 22:17:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2017-06-26 23:19:52 +0200"
     },
     "done": true
   },
@@ -150,6 +199,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2017-06-26 22:44:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
     },
     "done": true
   },
@@ -171,9 +226,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2017-06-26 23:19:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2017-06-27 19:03:51 +0200"
     },
     "done": true
   },
@@ -186,6 +253,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2017-06-26 22:44:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2017-06-27 19:22:58 +0200"
     },
     "done": true
   },
@@ -219,6 +292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2017-06-28 00:25:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2017-06-26 22:44:10 +0200"
@@ -237,9 +316,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2017-06-27 18:41:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2017-06-26 22:44:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2017-06-27 17:22:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2017-06-27 19:30:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2017-06-26 22:08:42 +0200"
     },
     "done": true
   },
@@ -255,9 +358,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
-      "has_cobblestone": "2017-06-26 22:08:42 +0200"
+      "has_sand": "2017-06-28 00:32:39 +0200"
     },
     "done": true
   },
@@ -267,15 +370,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_cobblestone": "2017-06-26 22:08:42 +0200"
+      "has_log": "2017-06-27 18:35:20 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
-      "entered_water": "2017-06-26 22:44:10 +0200"
+      "has_sand": "2017-06-28 00:32:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2017-06-26 22:08:42 +0200"
     },
     "done": true
   },
@@ -285,18 +394,40 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2017-06-26 22:44:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2017-06-26 22:49:12 +0200"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2017-06-27 19:23:21 +0200",
       "skeleton": "2017-06-26 22:50:15 +0200",
+      "zombie": "2017-06-27 18:42:53 +0200",
+      "spider": "2017-06-27 18:58:52 +0200",
+      "creeper": "2017-06-27 17:22:47 +0200",
       "enderman": "2017-06-26 21:59:37 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2017-06-27 19:22:55 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
@@ -346,9 +477,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2017-06-27 19:11:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2017-06-26 21:57:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
     },
     "done": true
   },
@@ -376,15 +519,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2017-06-26 22:08:42 +0200"
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2017-06-28 00:25:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2017-06-26 22:13:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-06-28 00:32:39 +0200"
     },
     "done": true
   },
