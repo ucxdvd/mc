@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2017-07-22 17:47:22 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2017-08-06 19:50:49 +0200"
@@ -17,15 +11,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2017-08-06 16:09:32 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2017-08-06 19:50:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2017-08-20 12:51:18 +0200"
     },
     "done": true
   },
@@ -35,21 +29,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "entered_water": "2017-07-22 17:37:35 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2017-07-22 17:38:38 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2017-07-22 18:04:40 +0200"
     },
     "done": true
   },
@@ -59,55 +41,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2017-07-22 18:04:40 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/golden_rail": {
-    "criteria": {
-      "has_rail": "2017-07-22 18:04:40 +0200"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "zombie_pigman": "2017-08-06 16:12:58 +0200",
-      "zombie_villager": "2017-08-16 23:06:27 +0200",
-      "magma_cube": "2017-08-06 16:12:08 +0200",
-      "skeleton": "2017-08-06 16:34:19 +0200",
-      "husk": "2017-08-07 00:26:55 +0200",
-      "blaze": "2017-08-06 22:18:16 +0200",
-      "zombie": "2017-08-06 16:35:18 +0200",
-      "spider": "2017-08-06 19:50:39 +0200",
-      "ghast": "2017-08-06 16:32:28 +0200",
-      "creeper": "2017-08-06 16:34:28 +0200",
-      "enderman": "2017-08-06 16:14:36 +0200"
-    },
-    "done": false
-  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2017-08-06 22:18:20 +0200"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2017-07-22 18:21:01 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2017-08-06 16:07:51 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2017-08-06 16:12:59 +0200"
     },
     "done": true
   },
@@ -126,12 +62,6 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2017-07-22 18:21:01 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2017-08-06 19:50:49 +0200"
     },
     "done": true
   },
@@ -171,18 +101,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2017-07-22 18:08:34 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2017-08-06 16:07:51 +0200"
-    },
-    "done": true
-  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2017-08-06 22:17:58 +0200"
@@ -204,12 +122,6 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2017-07-22 17:37:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2017-07-22 17:56:53 +0200"
     },
     "done": true
   },
@@ -237,15 +149,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_coal_block": "2017-07-22 18:06:58 +0200"
+      "has_stone": "2017-08-20 12:52:06 +0200"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2017-08-06 16:12:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2017-08-20 12:52:06 +0200"
     },
     "done": true
   },
@@ -267,12 +185,6 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2017-07-22 17:47:22 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2017-07-22 17:37:35 +0200"
@@ -282,6 +194,155 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2017-08-06 16:10:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2017-07-22 17:47:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2017-08-06 16:09:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2017-08-20 12:55:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2017-07-22 17:37:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2017-07-22 18:04:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2017-07-22 18:04:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2017-07-22 18:04:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_pigman": "2017-08-06 16:12:58 +0200",
+      "wither_skeleton": "2017-08-20 12:42:16 +0200",
+      "zombie_villager": "2017-08-16 23:06:27 +0200",
+      "magma_cube": "2017-08-06 16:12:08 +0200",
+      "skeleton": "2017-08-06 16:34:19 +0200",
+      "husk": "2017-08-07 00:26:55 +0200",
+      "blaze": "2017-08-06 22:18:16 +0200",
+      "zombie": "2017-08-06 16:35:18 +0200",
+      "spider": "2017-08-06 19:50:39 +0200",
+      "ghast": "2017-08-06 16:32:28 +0200",
+      "creeper": "2017-08-06 16:34:28 +0200",
+      "enderman": "2017-08-06 16:14:36 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2017-07-22 18:21:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2017-08-06 16:07:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2017-08-06 16:12:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2017-08-20 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2017-08-06 19:50:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2017-08-20 12:47:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2017-07-22 18:08:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2017-08-20 12:42:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2017-08-06 16:07:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2017-07-22 17:56:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2017-08-20 12:47:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2017-08-20 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2017-08-20 12:47:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2017-07-22 18:06:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2017-07-22 17:47:22 +0200"
     },
     "done": true
   },
